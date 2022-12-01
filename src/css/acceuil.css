@@ -1,0 +1,19 @@
+body {
+  background-color: #252525;
+}
+
+#logoacc {
+  /* put icon on the top left */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+
+#commandsbutton {
+  font-family: "../fonts/ZenDots-Regular.ttf";
+  position: relative;
+  top: 45px;
+  left: 450px;
+  font-size: xx-large;
+}
