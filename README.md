@@ -4,4 +4,4 @@ To change the colors go to styles.css and change the color on main-color and --s
 
 
 
-It isn't the best, but I made it in about an hour. 
+It isn't the best, but I made it in about an hour lol. 
